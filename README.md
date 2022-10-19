@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desttech
-- 👀 I’m interested in software engineering and  machine learning...
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on any intresting data science project ...
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning backend development with python
+- 💞️ I’m looking to collaborate on a web application site 
 - 📫 How to reach me ... twitter @dest__tech, email adress: ikegwurup@gmail.com
 
 <!---
